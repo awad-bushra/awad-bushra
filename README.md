@@ -26,5 +26,5 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=awadbushra&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
 <a href="https://komarev.com/ghpvc/?username=awad-bushra&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=awadbushra&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=awad-bushra&style=for-the-badge">
 </a>
