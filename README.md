@@ -21,10 +21,10 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-<!-- Optionally add more tools or languages as you learn -->
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=awadbushra&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<!-- GitHub Stats Card -->
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=awad-bushra&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
+<!-- Profile Views Counter -->
 <a href="https://komarev.com/ghpvc/?username=awad-bushra&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=awad-bushra&style=for-the-badge">
 </a>
